@@ -1,0 +1,71 @@
+{
+  "Engineering": {
+    "Mechanical Engineering": ["Mechanical Engineering (B.Eng)", "Mechatronics (B.Eng)", "Automobile Engineering", "Industrial Engineering", "Marine Engineering"],
+    "Electrical Engineering": ["Electrical/Electronics Engineering (B.Eng)", "Telecommunication Engineering", "Computer Engineering", "Power Engineering", "Control Systems"],
+    "Civil Engineering": ["Civil Engineering (B.Eng)", "Structural Engineering", "Highway & Transportation", "Water Resources Engineering", "Building Engineering"],
+    "Computer and ICT": ["Computer Science (B.Sc)", "Information Technology", "Software Engineering", "Cyber Security", "Data Science"],
+    "Chemical Engineering": ["Chemical Engineering (B.Eng)", "Petroleum Engineering", "Biochemical Engineering", "Polymer Engineering", "Gas Engineering"]
+  },
+  "Medical Sciences": {
+    "Medicine": ["Medicine and Surgery (MBBS)", "Anatomy (B.Sc)", "Physiology (B.Sc)", "Medical Biochemistry", "Biomedical Science"],
+    "Nursing": ["Nursing Science (B.NSc)", "Midwifery", "Public Health Nursing", "Pediatric Nursing", "Psychiatric Nursing"],
+    "Pharmacy": ["Pharmacy (PharmD)", "Pharmaceutical Science", "Clinical Pharmacy", "Pharmacology", "Pharmaceutics"],
+    "Physiotherapy": ["Physiotherapy (BMR/PT)", "Rehabilitation Science", "Sports Therapy", "Orthopedic Physiotherapy", "Neurological Physiotherapy"],
+    "Medical Laboratory Science": ["Medical Laboratory Science (BMLS)", "Clinical Chemistry", "Medical Microbiology", "Hematology", "Histopathology"]
+  },
+  "Environmental Sciences": {
+    "Architecture": ["Architecture (B.Sc/B.Tech)", "Urban Design", "Landscape Architecture", "Interior Design", "Building Technology"],
+    "Urban and Regional Planning": ["Urban and Regional Planning (B.URP)", "Environmental Planning", "Transport Planning", "Housing & Estate Planning", "Rural Planning"],
+    "Estate Management": ["Estate Management (B.Sc)", "Real Estate Development", "Property Valuation", "Facility Management", "Land Use Economics"],
+    "Quantity Surveying": ["Quantity Surveying (B.Sc)", "Construction Costing", "Project Cost Management", "Procurement", "Contract Admin"],
+    "Geography and Environmental Management": ["Environmental Management (B.Sc)", "Geography", "GIS and Remote Sensing", "Environmental Impact Assessment", "Disaster Management"]
+  },
+  "Agricultural Sciences": {
+    "Agronomy": ["Agronomy (B.Agric)", "Crop Science", "Plant Breeding", "Weed Science", "Soil Fertility"],
+    "Animal Science": ["Animal Science (B.Agric)", "Animal Production", "Animal Nutrition", "Livestock Management", "Poultry Science"],
+    "Soil Science": ["Soil Science (B.Agric)", "Soil Fertility", "Soil Chemistry", "Pedology", "Soil Physics"],
+    "Forestry and Wildlife": ["Forestry (B.Agric)", "Wildlife Management", "Agroforestry", "Forest Ecology", "Silviculture"],
+    "Fisheries": ["Fisheries and Aquaculture (B.Agric)", "Fish Farming", "Fisheries Management", "Marine Biology", "Fish Nutrition"]
+  },
+  "Arts": {
+    "Literature": ["English and Literary Studies (B.A)", "English Language (B.A)", "Comparative Literature", "African Literature", "Creative Writing"],
+    "Linguistics": ["Linguistics (B.A)", "Linguistics and Nigerian Languages", "Linguistics and Communication Studies", "Yoruba/Igbo/Hausa Studies", "Applied Linguistics"],
+    "Philosophy": ["Philosophy (B.A)", "Logic and Critical Thinking", "Ethics", "Philosophy of Science", "Social Philosophy"],
+    "Theatre Arts": ["Theatre Arts (B.A)", "Performing Arts", "Drama", "Film and Multimedia", "Stage Production"],
+    "Fine and Applied Arts": ["Fine Arts (B.A)", "Creative Arts", "Sculpture", "Painting", "Graphics"],
+    "Music": ["Music (B.A)", "Music Education", "Performance Studies", "Composition", "Ethnomusicology"],
+    "Religious Studies": ["Christian Religious Studies (B.A)", "Islamic Studies (B.A)", "Religion and Philosophy", "Comparative Religion", "Theology"],
+    "History": ["History and International Studies (B.A)", "History (B.A)", "Diplomatic History", "African History", "Historiography"]
+  },
+  "Social Sciences": {
+    "Economics": ["Economics (B.Sc)", "Development Economics", "Applied Economics", "Econometrics", "International Economics"],
+    "Sociology": ["Sociology (B.Sc)", "Criminology", "Social Work", "Medical Sociology", "Industrial Sociology"],
+    "Political Science": ["Political Science (B.Sc)", "International Relations", "Public Administration", "Political Theory", "Political Economy"],
+    "Psychology": ["Psychology (B.Sc)", "Clinical Psychology", "Educational Psychology", "Counseling Psychology", "Industrial Psychology"],
+    "Mass Communication": ["Mass Communication (B.Sc)", "Broadcasting", "Journalism", "Public Relations", "Media Studies"]
+  },
+  "Law": {
+    "Law": ["Law (LL.B)", "Commercial Law", "Criminal Law", "International Law", "Human Rights Law"]
+  },
+  "Education": {
+    "Educational Psychology": ["Educational Psychology (B.Ed)", "Counseling Psychology", "Child Psychology", "Learning and Behavior", "Psychometric Testing"],
+    "Early Childhood Education": ["Early Childhood Education (B.Ed)", "Pre-primary Education", "Montessori Method", "Child Development", "Learning through Play"],
+    "Educational Administration": ["Education Management (B.Ed)", "School Leadership", "Curriculum Administration", "Policy Planning", "Teacher Supervision"],
+    "Special Education": ["Special Education (B.Ed)", "Inclusive Education", "Deaf Education", "Learning Disabilities", "Assistive Technology"],
+    "Primary Education": ["Primary Education Studies (B.Ed)", "Basic Education", "Early Grade Literacy", "Maths Education", "Classroom Management"]
+  },
+  "Management Sciences": {
+    "Business Administration": ["Business Administration (B.Sc)", "Entrepreneurship", "Strategic Management", "Operations Management", "Business Management"],
+    "Marketing": ["Marketing (B.Sc)", "Digital Marketing", "Sales Management", "Consumer Behavior", "Brand Management"],
+    "Accounting": ["Accounting (B.Sc)", "Financial Accounting", "Auditing", "Taxation", "Management Accounting"],
+    "Human Resource Management": ["Human Resource Management (B.Sc)", "Labour Relations", "Performance Appraisal", "Workplace Psychology", "Employee Development"],
+    "Project Management": ["Project Management (B.Sc)", "Project Planning", "Risk Analysis", "Budgeting", "Monitoring and Evaluation"]
+  },
+  "Pure Sciences": {
+    "Physics": ["Physics (B.Sc)", "Applied Physics", "Engineering Physics", "Astrophysics", "Electronics"],
+    "Chemistry": ["Chemistry (B.Sc)", "Industrial Chemistry", "Pure and Applied Chemistry", "Analytical Chemistry", "Biochemistry"],
+    "Mathematics": ["Mathematics (B.Sc)", "Industrial Mathematics", "Mathematics with Statistics", "Pure and Applied Math", "Computational Math"],
+    "Biology": ["Biology (B.Sc)", "Microbiology", "Botany", "Zoology", "Biotechnology"],
+    "Statistics": ["Statistics (B.Sc)", "Mathematical Statistics", "Data Science", "Demography", "Actuarial Science"]
+  }
+}

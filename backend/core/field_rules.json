@@ -1,0 +1,43 @@
+{
+    "Engineering": {
+      "required_subjects": ["Mathematics", "Physics"],
+      "optional_subjects": ["Chemistry", "Technical Drawing", "Further Mathematics"]
+    },
+    "Medical Sciences": {
+      "required_subjects": ["Biology", "Chemistry"],
+      "optional_subjects": ["Physics", "English Language", "Mathematics"]
+    },
+    "Environmental Sciences": {
+      "required_subjects": ["Geography", "Mathematics"],
+      "optional_subjects": ["Physics", "Technical Drawing", "Economics"]
+    },
+    "Agricultural Sciences": {
+      "required_subjects": ["Agricultural Science", "Biology"],
+      "optional_subjects": ["Chemistry", "Geography", "Mathematics"]
+    },
+    "Arts": {
+      "required_subjects": ["Literature in English", "CRS or IRS", "English Language"],
+      "optional_subjects": ["Government", "History", "Fine Arts", "Nigerian Language"]
+    },
+    "Social Sciences": {
+      "required_subjects": ["Economics", "Government"],
+      "optional_subjects": ["Mathematics", "Geography", "Commerce", "Accounting"]
+    },
+    "Law": {
+      "required_subjects": ["English Language", "Literature in English", "Government"],
+      "optional_subjects": ["CRS or IRS", "History", "Economics"]
+    },
+    "Education": {
+      "required_subjects": ["English Language", "Mathematics"],
+      "optional_subjects": ["Biology", "Economics", "Literature in English", "CRS or IRS" ]
+    },
+    "Management Sciences": {
+      "required_subjects": ["Mathematics", "Economics"],
+      "optional_subjects": ["Commerce", "Accounting", "Business Studies", "Government"]
+    },
+    "Pure Sciences": {
+      "required_subjects": ["Mathematics", "Physics", "Chemistry"],
+      "optional_subjects": ["Biology", "Further Mathematics"]
+    }
+  }
+  

@@ -1,0 +1,74 @@
+{
+  "Engineering": [
+    "Civil Engineering",
+    "Mechanical Engineering",
+    "Electrical Engineering",
+    "Computer and ICT",
+    "Chemical Engineering"
+  ],
+  "Medical Sciences": [
+    "Medicine",
+    "Nursing",
+    "Pharmacy",
+    "Physiotherapy",
+    "Medical Laboratory Science"
+  ],
+  "Arts": [
+    "Literature",
+    "Linguistics",
+    "Philosophy",
+    "Religious Studies",
+    "History",
+    "Fine and Applied Arts",
+    "Theatre Arts",
+    "Music"
+  ],
+  "Social Sciences": [
+    "Economics",
+    "Political Science",
+    "Psychology",
+    "Sociology",
+    "Mass Communication"
+  ],
+  "Environmental Sciences": [
+    "Geography and Environmental Management",
+    "Urban and Regional Planning",
+    "Architecture",
+    "Estate Management",
+    "Quantity Surveying"
+  ],
+  "Agricultural Sciences": [
+    "Agronomy",
+    "Animal Science",
+    "Fisheries",
+    "Forestry and Wildlife",
+    "Soil Science"
+  ],
+  "Law": [
+    "Law",
+    "Criminal Law",
+    "Corporate Law",
+    "International Law",
+    "Human Rights Law"
+  ],
+  "Education": [
+    "Early Childhood Education",
+    "Primary Education",
+    "Special Education",
+    "Educational Psychology"
+  ],
+  "Management Sciences": [
+    "Business Administration",
+    "Marketing",
+    "Accounting",
+    "Human Resource Management",
+    "Project Management"
+  ],
+  "Pure Sciences": [
+    "Physics",
+    "Chemistry",
+    "Mathematics",
+    "Biology",
+    "Statistics"
+  ]
+}
