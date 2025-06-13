@@ -15,7 +15,7 @@ const DisciplineFilter = ({ student, updateStudent }) => {
     }
 
     try {
-      const res = await fetch(`${process.env.REACT_APP_BACKEND_URL}/discipline-filter`, {
+      const res = await fetch("https://career-backend-lmsq.onrender.com/discipline-filter", {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ fields: student.fields, interests }),

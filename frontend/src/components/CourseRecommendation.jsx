@@ -16,7 +16,7 @@ const CourseRecommendation = ({ student }) => {
       }
 
       try {
-        const res = await fetch(`${process.env.REACT_APP_BACKEND_URL}/course-recommendation`, {
+        const res = await fetch("https://career-backend-lmsq.onrender.com/course-recommendation", {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ disciplines, fields }),
